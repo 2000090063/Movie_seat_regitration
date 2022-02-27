@@ -1,5 +1,5 @@
 # My-profile-card
-------------------*********************A basic profile card using HTML and CSS**********-------------------------------------------
+------------------********************* Profile card using HTML and CSS**********-------------------------------------------
 
 ### _A basic layout of my Profile card_
 
