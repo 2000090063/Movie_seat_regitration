@@ -5,7 +5,7 @@
 ![pc](https://user-images.githubusercontent.com/89581143/156923836-a4df83bd-82e0-41ef-a051-605ac7169e22.jpg)
 ### License
 
-- [MIT License](url)
+- [MIT License](https://github.com/2000090063/My-profile-card/blob/main/LICENSE)
 - Copyright (c) 2022 Karthik Reddy Veluru
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
