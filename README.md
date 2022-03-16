@@ -27,7 +27,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-For more card designs,layout designs,slides  refer to the link given:[https://www.w3schools.com/howto/howto_website_static.asp](url)
+For more card designs,layout designs,slides  refer to the link given:[Profile cards](https://www.w3schools.com/howto/howto_website_static.asp)
 
 
 
